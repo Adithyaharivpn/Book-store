@@ -7,12 +7,3 @@
   flex-direction: column;
   height: 100%;
 }
-
-.card-body {
-  flex-grow: 1;
-}
-
-.card-img-top {
-  object-fit: cover; 
-}
-
